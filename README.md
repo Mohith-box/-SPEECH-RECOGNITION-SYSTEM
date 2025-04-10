@@ -18,6 +18,7 @@ MENTOR: NEELA SANTOSH
 The goal of Task 2 was to build a Speech-to-Text tool using pre-trained models and libraries that can accurately transcribe audio files into written text. This task demonstrates the use of Automatic Speech Recognition (ASR) — a key component in AI-powered virtual assistants, transcription tools, and voice-controlled systems.
 
 
+
 #WHAT IS THE TOOL WE CREATED?
 
 We developed a simple but effective Speech-to-Text Transcription Tool using the SpeechRecognition Python library. This tool processes a .wav audio file and returns a textual representation of the spoken content.
@@ -39,6 +40,7 @@ Works offline with local .wav files and online with cloud APIs.
 Accurate for clean and short audio clips.
 
 
+
 #PLATFORM & TECHNOLOGY STACK
 
 Component	Details
@@ -56,6 +58,7 @@ Runtime	CPU
 Development	Any Python IDE / Terminal
 
 
+
 #How the Tool Works (Behind the Scenes)
 
 Audio Loading: The user supplies a .wav file containing clear spoken content.
@@ -65,6 +68,8 @@ Preprocessing: The SpeechRecognition library loads and decodes the audio into ch
 Model Inference: The audio is sent to Google’s API (or processed locally), where speech is converted into text.
 
 Output Display: The text is printed to the screen and optionally saved to a file
+
+
 
 #Why This Is Valuable
 
