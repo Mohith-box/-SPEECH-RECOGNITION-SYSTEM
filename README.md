@@ -70,7 +70,9 @@ Model Inference: The audio is sent to Google’s API (or processed locally), whe
 
 Output Display: The text is printed to the screen and optionally saved to a file
 
+OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/8d18b143-f8f8-407d-a902-0cf14e0a6f51)
 
 #Why This Is Valuable
 
